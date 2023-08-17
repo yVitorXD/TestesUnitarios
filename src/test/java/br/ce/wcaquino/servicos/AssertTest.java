@@ -51,7 +51,7 @@ public class AssertTest {
 		Assert.assertNull(u3);
 		//verifica se nao esta vazio
 		Assert.assertNotNull(u2);
-		
+	
 		//esperado -> recebido
 		//esperei casa e recebi bola(error)
 		
